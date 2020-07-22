@@ -16,5 +16,7 @@ public class Demo2c {
         System.out.println("底边宽度"+w+"高度"+h+"的三角形的面积是"+s);
         
     }
-    
+    public int updataEmployee(){
+	return "status";
+    }
 }
